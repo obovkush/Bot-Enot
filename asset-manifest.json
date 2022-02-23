@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Bot-Enot/static/css/main.5f24d251.css",
-    "main.js": "/Bot-Enot/static/js/main.80be7713.js",
+    "main.js": "/Bot-Enot/static/js/main.d8eef52b.js",
     "index.html": "/Bot-Enot/index.html",
     "main.5f24d251.css.map": "/Bot-Enot/static/css/main.5f24d251.css.map",
-    "main.80be7713.js.map": "/Bot-Enot/static/js/main.80be7713.js.map"
+    "main.d8eef52b.js.map": "/Bot-Enot/static/js/main.d8eef52b.js.map"
   },
   "entrypoints": [
     "static/css/main.5f24d251.css",
-    "static/js/main.80be7713.js"
+    "static/js/main.d8eef52b.js"
   ]
 }
