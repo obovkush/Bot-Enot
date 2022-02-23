@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Bot-Enot/static/css/main.4b5f838f.css",
-    "main.js": "/Bot-Enot/static/js/main.559167e7.js",
+    "main.css": "/Bot-Enot/static/css/main.5f24d251.css",
+    "main.js": "/Bot-Enot/static/js/main.80be7713.js",
     "index.html": "/Bot-Enot/index.html",
-    "main.4b5f838f.css.map": "/Bot-Enot/static/css/main.4b5f838f.css.map",
-    "main.559167e7.js.map": "/Bot-Enot/static/js/main.559167e7.js.map"
+    "main.5f24d251.css.map": "/Bot-Enot/static/css/main.5f24d251.css.map",
+    "main.80be7713.js.map": "/Bot-Enot/static/js/main.80be7713.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b5f838f.css",
-    "static/js/main.559167e7.js"
+    "static/css/main.5f24d251.css",
+    "static/js/main.80be7713.js"
   ]
 }
