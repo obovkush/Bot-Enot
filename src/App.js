@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect} from 'react';
 import './App.css';
 import 'antd/dist/antd.min.css';
 
@@ -7,6 +7,10 @@ import Header from './components/Header';
 import Info from './components/Card'
 
 function App() {
+
+  useEffect(() => {
+    document.title = "Bot Enot";  
+  }, []);
 
   return (
     <div className="App">
